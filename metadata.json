@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 国家级心血管医疗智慧分发网络",
+  "description": "基于中心-辐射模式（Hub-and-Spoke）的全国心血管 RAG 系统可视化与模拟，具有本地隐私优先推理和联邦知识共享功能。",
+  "requestFramePermissions": []
+}
